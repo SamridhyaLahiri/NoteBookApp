@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\samri\\AndroidStudioProjects\\NoteBookApp-20180221T210230Z-001\\NoteBookApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\samri\\.android\\build-cache\\63d14dfe28468e13972c4d7ddd2535f1a7c024fc\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\samri\\AndroidStudioProjects\\NoteBookApp-20180221T210230Z-001\\NoteBookApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\samri\\.android\\build-cache\\63d14dfe28468e13972c4d7ddd2535f1a7c024fc\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\samri\\AndroidStudioProjects\\NoteBookApp-20180221T210230Z-001\\NoteBookApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\samri\\.android\\build-cache\\63d14dfe28468e13972c4d7ddd2535f1a7c024fc\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\samri\\AndroidStudioProjects\\NoteBookApp-20180221T210230Z-001\\NoteBookApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\samri\\.android\\build-cache\\63d14dfe28468e13972c4d7ddd2535f1a7c024fc\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]

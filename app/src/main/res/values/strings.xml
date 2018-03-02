@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoteBookApp</string>
+    <string name="gotos">Goto</string>
+    <string name="sh">Show FullScreen</string>
+    <string name="less">&lt;</string>
+    <string name="right">&gt;</string>
+</resources>

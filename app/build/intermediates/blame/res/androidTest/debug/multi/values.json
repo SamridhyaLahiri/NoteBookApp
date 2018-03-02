@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\samri\\AndroidStudioProjects\\NoteBookApp-20180221T210230Z-001\\NoteBookApp\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\samri\\.android\\build-cache\\6e76b1382dcb501f13ced07d48cbf13c2962a274\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

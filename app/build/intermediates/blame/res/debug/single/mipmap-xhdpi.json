@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\samri\\AndroidStudioProjects\\NoteBookApp-20180221T210230Z-001\\NoteBookApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\highlight.png",
+        "source": "C:\\Users\\samri\\AndroidStudioProjects\\NoteBookApp-20180221T210230Z-001\\NoteBookApp\\app\\src\\main\\res\\mipmap-xhdpi\\highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\samri\\AndroidStudioProjects\\NoteBookApp-20180221T210230Z-001\\NoteBookApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\alert_icon.png",
+        "source": "C:\\Users\\samri\\AndroidStudioProjects\\NoteBookApp-20180221T210230Z-001\\NoteBookApp\\app\\src\\main\\res\\mipmap-xhdpi\\alert_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\samri\\AndroidStudioProjects\\NoteBookApp-20180221T210230Z-001\\NoteBookApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\book.png",
+        "source": "C:\\Users\\samri\\AndroidStudioProjects\\NoteBookApp-20180221T210230Z-001\\NoteBookApp\\app\\src\\main\\res\\mipmap-xhdpi\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\samri\\AndroidStudioProjects\\NoteBookApp-20180221T210230Z-001\\NoteBookApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\save.png",
+        "source": "C:\\Users\\samri\\AndroidStudioProjects\\NoteBookApp-20180221T210230Z-001\\NoteBookApp\\app\\src\\main\\res\\mipmap-xhdpi\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\samri\\AndroidStudioProjects\\NoteBookApp-20180221T210230Z-001\\NoteBookApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\samri\\AndroidStudioProjects\\NoteBookApp-20180221T210230Z-001\\NoteBookApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\samri\\AndroidStudioProjects\\NoteBookApp-20180221T210230Z-001\\NoteBookApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\samri\\AndroidStudioProjects\\NoteBookApp-20180221T210230Z-001\\NoteBookApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\samri\\AndroidStudioProjects\\NoteBookApp-20180221T210230Z-001\\NoteBookApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\myicon.png",
+        "source": "C:\\Users\\samri\\AndroidStudioProjects\\NoteBookApp-20180221T210230Z-001\\NoteBookApp\\app\\src\\main\\res\\mipmap-xhdpi\\myicon.png"
+    }
+]

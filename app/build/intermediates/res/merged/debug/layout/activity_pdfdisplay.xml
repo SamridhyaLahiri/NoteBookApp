@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.samri.notebookapp.Pdfdisplay">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:id="@+id/pview"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/less"
+            android:id="@+id/prev"
+            android:textSize="30sp"/>
+        <ScrollView
+            android:layout_weight="1"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="PDF Display"
+                android:maxLines="1023434"
+                android:textIsSelectable="true"
+                android:scrollbars="vertical"
+                android:textSize="20sp"
+                android:id="@+id/pdf"/>
+
+        </ScrollView>
+        <Button
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:id="@+id/next"
+            android:text="@string/right"
+            android:textSize="30sp"/>
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="#000000"/>
+
+    <ScrollView
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/nv"
+        android:scrollbars="vertical">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Notes Area"
+            android:textSize="20dp"
+            android:background="@null"
+            android:id="@+id/tx" />
+    </ScrollView>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sh"
+        android:id="@+id/b"
+        android:layout_gravity="center"/>
+</LinearLayout>
